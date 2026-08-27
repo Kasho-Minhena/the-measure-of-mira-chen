@@ -6,7 +6,8 @@
 
 **Kasho Minhena**
 
-**Copyright © 2026 Kasho Minhena. All rights reserved**.
+*Copyright © 2026 Kasho Minhena. All rights reserved.*
+
 ---
 
 ## Notice
