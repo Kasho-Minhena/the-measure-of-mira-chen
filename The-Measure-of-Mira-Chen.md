@@ -5,10 +5,7 @@
 ### Tales from Lex-Cybernetica — Book One
 
 **Kasho Minhena**
-Copyright © 2026 Ashok Hemnani.
-Published under the pen name Kasho Minhena.
-All rights reserved.
-
+Copyright © 2026 Kasho Minhena. All rights reserved.
 ---
 
 ## Notice
