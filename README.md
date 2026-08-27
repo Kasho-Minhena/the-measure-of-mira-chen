@@ -1,8 +1,8 @@
 # The Measure of Mira Chen
 
-A Lex-Cybernetica science-fiction legal novel by Ashok Hemnani.
+A Lex-Cybernetica science-fiction legal novel by Kasho Minhena.
 
-© 2026 Ashok Hemnani. All rights reserved.
+© 2026 Kasho Minhena. All rights reserved.
 
 No reproduction, adaptation, distribution, or commercial use is permitted without written authorization.
 
