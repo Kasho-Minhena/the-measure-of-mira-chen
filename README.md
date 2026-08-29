@@ -1,5 +1,7 @@
 # The Measure of Mira Chen
 
+![The Measure of Mira Chen book cover](The-Measure-of-Mira-Chen-Cover-2026-Unified-Emblem.png)
+
 A Lex-Cybernetica science-fiction legal novel by Kasho Minhena.
 
 © 2026 Kasho Minhena. All rights reserved.
